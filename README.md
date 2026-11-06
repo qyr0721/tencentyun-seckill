@@ -1,7 +1,7 @@
 > **版权与归属（Copyright & Attribution）**
 >
 > 本项目改编自 [@zhouyifan007](https://github.com/zhouyifan007) 的开源项目 [tencentyun-snake-up](https://github.com/zhouyifan007/tencentyun-snake-up)。
-> 在原脚本基础上，本人结合 AI 进行了迭代修改，并补充了实战笔记与配套教程，属于**二次创作（derivative work）**。
+> 在原脚本基础上，本人结合 AI 进行了迭代修改并补充了配套教程，属于**二次创作（derivative work）**。
 > 原作者保留其原始代码与思路的版权；本仓库仅作个人学习研究用途，使用产生的任何后果由使用者自行承担。
 
 # tencentyun-seckill
